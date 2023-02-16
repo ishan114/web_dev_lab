@@ -1,0 +1,25 @@
+body {
+    background-color: #222ba3;
+    font-size: 18px;
+    font-style: italic;
+}
+hr {
+    background-color: white;
+    border-style:inset;
+    border-color:rgb(2, 2, 2);
+    border-width: 5px;
+    height: none;
+    width: 20%;
+}
+h1{
+    color: #222ba3;
+}
+h3{
+    color: #222ba3;
+}
+h2{
+    color: #222ba3;
+}
+img{
+    height: 225px;
+}
